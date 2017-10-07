@@ -8,6 +8,8 @@ html {
   margin: 0;
   padding: 10px;
   width: 250px;
+  transform:translate(550px);
+  background-image: url("images/pteranodon.jpg"),url("images/stegosaurus.jpg"),url("images/hadrosaur.jpg");
 
   background-color: #fff;
   border-radius: 4px;
@@ -17,6 +19,7 @@ html {
 .polaroid > img {
   display: block;
   width: 100%;
+
 }
 
 .polaroid > figcaption {
