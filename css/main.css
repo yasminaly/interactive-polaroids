@@ -33,7 +33,7 @@ figure:first-child {
   z-index: 3;
 }
 
-figure:nth-child(2){
+figure:nth-child(2) {
   transform: rotate(5deg);
   top: 150px;
   left: 30%;
